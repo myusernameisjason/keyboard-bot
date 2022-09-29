@@ -2,4 +2,4 @@ Elements of the source code has been redacted for security but everything is ful
 Variables and outputs have been altered for privacy but formatting and code should still compile if set up and ran 'correctly'.
 
 
-- this repo does not include my whole project since it does not showcase my knowledge of programminig, rather is mostly server-based hosting
+- repo does not include all files from the project
